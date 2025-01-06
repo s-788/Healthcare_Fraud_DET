@@ -21,11 +21,4 @@ This is a binary classification problem. Using data of inpatient claims, outpati
   <li> AUC Score </li>
 </ul>
 
-<b> Modelling </b> <br>
-![Capture3](https://user-images.githubusercontent.com/32812509/147382873-040a29de-04d7-42d7-9ba3-f27e5721a395.PNG)
 
-<b>Technical Blog:</b> https://medium.com/@shahusumeet/healthcare-provider-fraud-detection-d54138a3b098
-<br>
-<b>Web Application link:</b> https://healthcare-fraud-detection.herokuapp.com/
-<br>
-<b>Web Application Video Demo:</b> https://youtu.be/O1io2FolD20
